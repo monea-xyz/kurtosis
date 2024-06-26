@@ -2,10 +2,10 @@ package kurtosis_config
 
 import (
 	"fmt"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/defaults"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/helpers/user_send_metrics_election"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/helpers/user_send_metrics_election/user_metrics_election_event_backlog"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_config/resolved_config"
+	"github.com/monea-xyz/kurtosis/cli/cli/defaults"
+	"github.com/monea-xyz/kurtosis/cli/cli/helpers/user_send_metrics_election"
+	"github.com/monea-xyz/kurtosis/cli/cli/helpers/user_send_metrics_election/user_metrics_election_event_backlog"
+	"github.com/monea-xyz/kurtosis/cli/cli/kurtosis_config/resolved_config"
 	"github.com/kurtosis-tech/kurtosis/container-engine-lib/lib/user_support_constants"
 	"github.com/kurtosis-tech/stacktrace"
 	"github.com/sirupsen/logrus"

@@ -1,13 +1,13 @@
 package files
 
 import (
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_str_consts"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/files/download"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/files/inspect"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/files/rendertemplate"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/files/storeservice"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/files/storeweb"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/files/upload"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_str_consts"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/files/download"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/files/inspect"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/files/rendertemplate"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/files/storeservice"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/files/storeweb"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/files/upload"
 	"github.com/spf13/cobra"
 )
 

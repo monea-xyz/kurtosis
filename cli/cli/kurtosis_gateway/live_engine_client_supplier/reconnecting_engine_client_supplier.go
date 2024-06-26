@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/kurtosis-tech/kurtosis/api/golang/engine/kurtosis_engine_rpc_api_bindings"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_gateway/connection"
+	"github.com/monea-xyz/kurtosis/cli/cli/kurtosis_gateway/connection"
 	"github.com/kurtosis-tech/kurtosis/container-engine-lib/lib/backend_interface"
 	"github.com/kurtosis-tech/kurtosis/container-engine-lib/lib/backend_interface/objects/container"
 	"github.com/kurtosis-tech/kurtosis/container-engine-lib/lib/backend_interface/objects/engine"

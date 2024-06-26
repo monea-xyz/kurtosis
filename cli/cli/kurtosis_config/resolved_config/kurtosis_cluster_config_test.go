@@ -1,7 +1,7 @@
 package resolved_config
 
 import (
-	v2 "github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_config/overrides_objects/v2"
+	v2 "github.com/monea-xyz/kurtosis/cli/cli/kurtosis_config/overrides_objects/v2"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

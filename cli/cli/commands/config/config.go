@@ -6,8 +6,8 @@
 package config
 
 import (
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_str_consts"
-	config_path "github.com/kurtosis-tech/kurtosis/cli/cli/commands/config/path"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_str_consts"
+	config_path "github.com/monea-xyz/kurtosis/cli/cli/commands/config/path"
 	"github.com/spf13/cobra"
 )
 

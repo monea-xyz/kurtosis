@@ -6,8 +6,8 @@ import (
 	"sync"
 
 	"github.com/kurtosis-tech/kurtosis/api/golang/core/kurtosis_core_rpc_api_bindings"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_gateway/connection"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_gateway/server/common"
+	"github.com/monea-xyz/kurtosis/cli/cli/kurtosis_gateway/connection"
+	"github.com/monea-xyz/kurtosis/cli/cli/kurtosis_gateway/server/common"
 	"github.com/kurtosis-tech/kurtosis/container-engine-lib/lib/backend_interface/objects/port_spec"
 	"github.com/kurtosis-tech/stacktrace"
 	"github.com/sirupsen/logrus"

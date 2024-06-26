@@ -1,4 +1,4 @@
-module github.com/kurtosis-tech/kurtosis/cli/cli
+module github.com/monea-xyz/kurtosis/cli/cli
 
 go 1.20
 

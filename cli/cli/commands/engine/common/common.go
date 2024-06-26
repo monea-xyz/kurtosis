@@ -1,8 +1,8 @@
 package common
 
 import (
-	"github.com/kurtosis-tech/kurtosis/cli/cli/helpers/kurtosis_config_getter"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_config/resolved_config"
+	"github.com/monea-xyz/kurtosis/cli/cli/helpers/kurtosis_config_getter"
+	"github.com/monea-xyz/kurtosis/cli/cli/kurtosis_config/resolved_config"
 	"github.com/kurtosis-tech/stacktrace"
 )
 

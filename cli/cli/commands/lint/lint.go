@@ -11,10 +11,10 @@ import (
 	"path/filepath"
 
 	"github.com/kurtosis-tech/kurtosis-package-indexer/server/crawler"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_framework/lowlevel"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_framework/lowlevel/args"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_framework/lowlevel/flags"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_str_consts"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_framework/lowlevel"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_framework/lowlevel/args"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_framework/lowlevel/flags"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_str_consts"
 	"github.com/kurtosis-tech/stacktrace"
 	"github.com/sirupsen/logrus"
 )

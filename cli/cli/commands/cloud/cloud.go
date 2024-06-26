@@ -1,8 +1,8 @@
 package cloud
 
 import (
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_str_consts"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/cloud/load"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_str_consts"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/cloud/load"
 	"github.com/spf13/cobra"
 )
 

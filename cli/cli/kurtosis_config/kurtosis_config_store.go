@@ -1,11 +1,11 @@
 package kurtosis_config
 
 import (
-	"github.com/kurtosis-tech/kurtosis/cli/cli/helpers/host_machine_directories"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_config/config_version"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_config/overrides_deserializers"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_config/overrides_migrators"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_config/resolved_config"
+	"github.com/monea-xyz/kurtosis/cli/cli/helpers/host_machine_directories"
+	"github.com/monea-xyz/kurtosis/cli/cli/kurtosis_config/config_version"
+	"github.com/monea-xyz/kurtosis/cli/cli/kurtosis_config/overrides_deserializers"
+	"github.com/monea-xyz/kurtosis/cli/cli/kurtosis_config/overrides_migrators"
+	"github.com/monea-xyz/kurtosis/cli/cli/kurtosis_config/resolved_config"
 	"github.com/kurtosis-tech/stacktrace"
 	"github.com/sirupsen/logrus"
 	"gopkg.in/yaml.v3"

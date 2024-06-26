@@ -6,15 +6,15 @@
 package service
 
 import (
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_str_consts"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/service/add"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/service/exec"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/service/inspect"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/service/logs"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/service/rm"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/service/shell"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/service/start"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/service/stop"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_str_consts"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/service/add"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/service/exec"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/service/inspect"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/service/logs"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/service/rm"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/service/shell"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/service/start"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/service/stop"
 	"github.com/spf13/cobra"
 )
 

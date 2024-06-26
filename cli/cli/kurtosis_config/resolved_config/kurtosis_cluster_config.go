@@ -2,7 +2,7 @@ package resolved_config
 
 import (
 	"context"
-	v2 "github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_config/overrides_objects/v2"
+	v2 "github.com/monea-xyz/kurtosis/cli/cli/kurtosis_config/overrides_objects/v2"
 	"strings"
 
 	"github.com/kurtosis-tech/kurtosis/container-engine-lib/lib/backend_impls/docker/docker_kurtosis_backend/backend_creator"

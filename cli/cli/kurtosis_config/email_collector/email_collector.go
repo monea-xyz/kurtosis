@@ -1,10 +1,10 @@
 package email_collector
 
 import (
-	"github.com/kurtosis-tech/kurtosis/cli/cli/helpers/metrics_cloud_user_instance_id_helper"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/helpers/metrics_user_id_store"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/helpers/prompt_displayer"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_config/resolved_config"
+	"github.com/monea-xyz/kurtosis/cli/cli/helpers/metrics_cloud_user_instance_id_helper"
+	"github.com/monea-xyz/kurtosis/cli/cli/helpers/metrics_user_id_store"
+	"github.com/monea-xyz/kurtosis/cli/cli/helpers/prompt_displayer"
+	"github.com/monea-xyz/kurtosis/cli/cli/kurtosis_config/resolved_config"
 	"github.com/kurtosis-tech/kurtosis/kurtosis_version"
 	"github.com/kurtosis-tech/kurtosis/metrics-library/golang/lib/analytics_logger"
 	"github.com/kurtosis-tech/kurtosis/metrics-library/golang/lib/metrics_client"

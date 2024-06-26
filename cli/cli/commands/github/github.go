@@ -1,11 +1,11 @@
 package github
 
 import (
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_str_consts"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/github/login"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/github/logout"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/github/status"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/commands/github/token"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_str_consts"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/github/login"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/github/logout"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/github/status"
+	"github.com/monea-xyz/kurtosis/cli/cli/commands/github/token"
 	"github.com/spf13/cobra"
 )
 

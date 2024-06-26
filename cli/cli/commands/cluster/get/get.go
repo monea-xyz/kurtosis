@@ -2,12 +2,12 @@ package get
 
 import (
 	"context"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_framework/lowlevel"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_framework/lowlevel/args"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_framework/lowlevel/flags"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/command_str_consts"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/kurtosis_cluster_setting"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/out"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_framework/lowlevel"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_framework/lowlevel/args"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_framework/lowlevel/flags"
+	"github.com/monea-xyz/kurtosis/cli/cli/command_str_consts"
+	"github.com/monea-xyz/kurtosis/cli/cli/kurtosis_cluster_setting"
+	"github.com/monea-xyz/kurtosis/cli/cli/out"
 	"github.com/kurtosis-tech/stacktrace"
 )
 

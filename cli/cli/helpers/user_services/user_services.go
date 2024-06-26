@@ -6,7 +6,7 @@ import (
 	"github.com/kurtosis-tech/kurtosis/api/golang/core/kurtosis_core_rpc_api_bindings"
 	"github.com/kurtosis-tech/kurtosis/api/golang/core/lib/binding_constructors"
 	"github.com/kurtosis-tech/kurtosis/api/golang/engine/kurtosis_engine_rpc_api_bindings"
-	"github.com/kurtosis-tech/kurtosis/cli/cli/helpers/enclave_liveness_validator"
+	"github.com/monea-xyz/kurtosis/cli/cli/helpers/enclave_liveness_validator"
 	"github.com/kurtosis-tech/stacktrace"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
